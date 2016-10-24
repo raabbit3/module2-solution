@@ -9,24 +9,26 @@ h1 {
   text-align: center;
 }
 h2 {
-  border: 1px solid black;
+  border: 10px green;
   font-family: Helvetica;
   color: black;
   text-align: center;
   width: 30%;
   float: right;
   margin-right: 5%;
+  padding-top: 4%;
+  padding-left: 1%;
 
 }
 p {
-  font-family: Helvetica;
+  font-family: fantasy;
   color: black;
   text-align: center;
   margin-right: auto;
   margin-left: auto;
-  height: 150px;
+  height: 200px;
   width: 90%; 
-  padding: 10%;
+  padding: 15%;
   border: 5px solid green;
   background-color: gray;
 }
